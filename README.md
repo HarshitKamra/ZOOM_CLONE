@@ -6,6 +6,7 @@ A Zoom Workplace-style video meeting app: signed-in home, instant meetings, join
 
 **API:** https://zoom-clone-api-alpha.vercel.app
 
+**Demo Video Link** https://drive.google.com/file/d/12DqBAWgPbwNwniM0U_khJOer-9nNEP6c/view?usp=sharing
 There is no login screen. The app opens as **Harshit Kamra** (`harshit.kamra@example.com`).
 
 ## Tech stack
